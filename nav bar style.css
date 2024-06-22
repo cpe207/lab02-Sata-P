@@ -1,0 +1,196 @@
+*{
+
+padding: 0;
+margin: 0;
+text-decoration: none;
+list-style: none;
+box-sizing: border-box;
+
+
+}
+
+body{
+    scroll-behavior: smooth;
+    background-color: wheat;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+nav{
+
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+    height: 80px;
+    margin: 15px 0;
+}
+
+
+
+div.logo{
+
+ 
+    color: rgb(0, 0, 0);
+    font-family: Tiny5;
+    padding: 0 25px;
+    font-size: 40px;
+
+}
+
+div.menu a{
+    
+    color: rgb(0, 0, 0);
+    font-family: Tiny5;
+    margin: 0 10px;
+    font-size: 25px;
+
+}
+/*-------------------------------------------end of nav bar sec------------------------------------------------------------------------*/
+
+.para1{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 0 70px;
+    margin: 0 60px;
+    align-items: center;
+    gap: 50px;
+    margin-top: 75px;
+}
+
+.para1 .text{
+
+    flex: 5;
+
+}
+.para1 .text h2{
+
+    font-size: 50px;
+
+}
+
+.para1 .text p{
+
+    font-size: 25px;
+
+}
+
+.para1 .image{
+
+    flex: 2;
+
+}
+
+.para1 .image img{
+
+    border-radius: 10%;
+
+}
+
+
+.para2{
+
+    padding: 0 70px;
+    margin-bottom: 100px;
+    margin-top: 150px;
+    
+}
+
+.para2 h2{
+
+   text-align: center;
+   font-size: 35px;
+}
+
+.para2 .skill{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 27px;
+
+}
+  
+.para2 .icon{
+
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+
+}
+
+/*-------------------------------------------------------home section--------------------------------------------------------------------*/
+
+.contactpage .contactheader{
+
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top:150px;
+    padding: 0 300px;
+
+}
+.contactpage .contactheader p{
+
+    font-size: 25px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top:30px;
+    padding: 0 300px;
+
+}
+
+.contactlink{
+
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+    color: black;
+    margin-bottom: 70px;
+}
+
+.contactlink .ig{
+
+    font-size: 45px;
+    justify-content:space-between;
+    text-align: center;
+    margin-top: 25px;
+    color: black;
+
+}
+
+.contactlink .facebook{
+
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+    color: black;
+    
+}
+
+.contactlink .git{
+
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+    color: black;
+}
+
+.contactlink .email{
+
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 25px;
+    padding: 0 300px;
+    color: black;
+}
