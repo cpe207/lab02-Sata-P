@@ -125,7 +125,7 @@ div.menu a{
 /*-------------------------------------------------------home section--------------------------------------------------------------------*/
 
 .contactpage .contactheader{
-
+    color: black;
     font-size: 45px;
     justify-content: space-between;
     text-align: center;
@@ -140,6 +140,7 @@ div.menu a{
     text-align: center;
     margin-top:30px;
     padding: 0 300px;
+    color: black;
 
 }
 
@@ -172,7 +173,7 @@ div.menu a{
     margin-top: 25px;
     padding: 0 300px;
     color: black;
-    
+
 }
 
 .contactlink .git{
@@ -193,4 +194,55 @@ div.menu a{
     margin-top: 25px;
     padding: 0 300px;
     color: black;
+}
+
+/*-------------------------------------------------- contact page end-------------------*/
+
+
+.exp h2{
+
+    
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 50px;
+    padding: 0 300px;
+    color: black;
+
+}
+
+.exp .project .pj{
+
+    display: flex;
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 50px;
+    padding: 0 300px;
+    color: black;
+
+}
+
+.exp .project .pj2{
+
+    display: flex;
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 50px;
+    padding: 0 300px;
+    color: black;
+
+}
+
+.exp .project .pj3{
+
+    display: flex;
+    font-size: 45px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 50px;
+    padding: 0 300px;
+    color: black;
+
 }
