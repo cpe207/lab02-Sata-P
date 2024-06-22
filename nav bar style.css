@@ -201,9 +201,8 @@ div.menu a{
 
 .exp h2{
 
-    
-    font-size: 45px;
     justify-content: space-between;
+    font-size: 45px;
     text-align: center;
     margin-top: 50px;
     padding: 0 300px;
@@ -215,11 +214,11 @@ div.menu a{
 
     display: flex;
     font-size: 45px;
-    justify-content: space-between;
     text-align: center;
     margin-top: 50px;
     padding: 0 300px;
     color: black;
+    justify-content: space-between;
 
 }
 
@@ -227,11 +226,11 @@ div.menu a{
 
     display: flex;
     font-size: 45px;
-    justify-content: space-between;
     text-align: center;
     margin-top: 50px;
     padding: 0 300px;
     color: black;
+    justify-content: space-between;
 
 }
 
@@ -239,10 +238,10 @@ div.menu a{
 
     display: flex;
     font-size: 45px;
-    justify-content: space-between;
     text-align: center;
     margin-top: 50px;
     padding: 0 300px;
     color: black;
+    justify-content: space-between;
 
 }
